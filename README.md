@@ -26,4 +26,6 @@ Dataset:
  Implemented the vocabulary of words:
  ![image](https://user-images.githubusercontent.com/98543154/177364467-c29b6948-6686-424d-a7c6-127a67ac366b.png)
 
+
+Model accuracy:
 ![image](https://user-images.githubusercontent.com/98543154/177364684-2b1582fb-e442-403b-b3bf-bebff1f1decc.png)
